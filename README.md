@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻Full Stack Web Development<br>🤘I can be your Rock and Metal Cicerone.
+Learning Web 
 
 
 ## 🌐 Socials:
