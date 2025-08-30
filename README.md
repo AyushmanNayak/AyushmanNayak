@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayushman-nayak) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ayushman-nayak) 
 [![Twitter](https://img.shields.io/badge/X-%230077B5.svg?logo=x&logoColor=white)](https://x.com/_ayushmannayak)
 
 # 📊 GitHub Stats:
